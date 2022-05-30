@@ -42,7 +42,7 @@ others can be found in ```Output_Screenshots folder```
 	3. Execute the WebApp using ```flask run``` or ```python app.py```
 
 * Train the Model
-	1. Open ```Training_File\Model_Training_Communication_Project.ipynb```
+	1. Open ```Training_File\Externship Project.ipynb```
 	2. Change Paths to Dataset
 	3. Run the Notebook
 
